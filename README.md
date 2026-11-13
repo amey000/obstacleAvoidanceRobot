@@ -1,6 +1,6 @@
 # Obstacle Avoidance Robot Simulation  
 
-_Building a differential drive robot which can avoid obstacles. The robot design and other requirements can be found in this [PDF](https://github.com/saharshleo/obstacleAvoidanceRobot/blob/master/ProblemStatement.pdf)._  
+_Building a differential drive robot which can avoid obstacles. The robot design and other requirements can be found in this [PDF](ProblemStatement.pdf)._  
 This work was done taking reference from [here](https://www.theconstructsim.com/ros-projects-exploring-ros-using-2-wheeled-robot-part-1).
 
 ## Prerequisites  
